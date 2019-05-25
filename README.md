@@ -10,7 +10,7 @@ https://itunes.apple.com/us/app/theragun/id1445611295?mt=8
 <img src="https://github.com/jentoobento/theragun/blob/master/SignUpValidation.png" width="200" height="400" style="float: left;"/>
 <img src="https://github.com/jentoobento/theragun/blob/master/SignUpValidationError.png" width="200" height="400" style="float: right;"/>
   </div>
-Pings backend for credentials and updates the UI accordingly. Features as-you-type input fields for both correct and incorrect responses. 
+Pings backend for credentials and updates the UI accordingly. Features as-you-type validation for both correct and incorrect responses. 
 
 #### Send Coupon Code Screen
 <img src="https://github.com/jentoobento/theragun/blob/master/SendCodeComponent.png" width="200" height="400" />
