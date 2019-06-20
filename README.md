@@ -1,6 +1,6 @@
 # Download on the App store:
 
-App store: https://apps.apple.com/us/app/theragun/id1445611295
+App store: https://apps.apple.com/us/app/theragun/id1445611295<br />
 Google Play store: https://play.google.com/store/apps/details?id=com.theragun.consumer&hl=en_US 
 
 ## Components
